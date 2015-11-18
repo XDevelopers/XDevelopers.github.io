@@ -2,10 +2,10 @@
 title: Sergio Garcia
 email: contato@sergio.eti.br
 description:
-  en: 'My personal blog, with my opinions and comments on technology, development, culture and everything else.'
-  pt: 'Meu blog pessoal com minhas opiniões e comentários em tecnologia, desenvolvimento, cultura e tudo mais.'
+  en: 'My personal blog, with opinions and comments on technology, development, culture and everything else.'
+  pt: 'Meu blog pessoal com opiniões e comentários em tecnologia, desenvolvimento, cultura e tudo mais.'
 baseurl: ""
-url: "https://sergio.eti.br"
+url: "https://www.sergio.eti.br"
 
 author: Sergio Garcia
 twitter_username: sergio_ykz
