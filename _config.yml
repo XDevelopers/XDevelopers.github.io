@@ -1,0 +1,32 @@
+# Site settings
+title: Sergio Garcia
+email: contato@sergio.eti.br
+description:
+  en: 'My personal blog, with my opinions and comments on technology, development, culture and everything else.'
+  pt: 'Meu blog pessoal com minhas opiniões e comentários em tecnologia, desenvolvimento, cultura e tudo mais.'
+baseurl: ""
+url: "https://sergio.eti.br"
+
+author: Sergio Garcia
+twitter_username: sergio_ykz
+github_username:  sergio-garcia
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: /blog/:title/
+paginate: 5
+
+defaults:
+  -
+    scope:
+      path: _posts/en
+    values:
+      layout: default
+      lang: en
+  -
+    scope:
+      path: _posts/pt
+    values:
+      layout: default
+      lang: pt
