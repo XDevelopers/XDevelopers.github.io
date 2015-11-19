@@ -6,13 +6,20 @@ description:
   pt: 'Meu blog pessoal com opiniões e comentários em tecnologia, desenvolvimento, cultura e tudo mais.'
 baseurl: ""
 url: "https://www.sergio.eti.br"
+flags:
+  en: us
+  pt: br
 
 author: Sergio Garcia
 twitter_username: sergio_ykz
 github_username:  sergio-garcia
 
+# GitHub override this
+safe: true
+lsi: false
+
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
 permalink: /blog/:title/
 paginate: 5

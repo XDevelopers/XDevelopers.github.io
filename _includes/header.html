@@ -18,14 +18,22 @@
           {% assign translations = site.pages | where:"uname", page.uname %}
           {% for translation in translations %}
             {% if translation.lang and translation.lang != page.lang %}
-              <li><a href="{{ translation.url | prepend: site.baseurl }}">{{ translation.lang }}</a></li>
+              <li>
+                <a href="{{ translation.url | prepend: site.baseurl }}">
+                  <span class="flag-icon flag-icon-{{ site.flags[translation.lang] }}"></span>
+                </a>
+              </li>
             {% endif %}
           {% endfor %}
 
           {% assign translations = site.posts | where:"uname", page.uname %}
           {% for translation in translations %}
             {% if translation.lang and translation.lang != page.lang %}
-              <li><a href="{{ translation.url | prepend: site.baseurl }}">{{ translation.lang }}</a></li>
+              <li>
+                <a href="{{ translation.url | prepend: site.baseurl }}">
+                  <span class="flag-icon flag-icon-{{ site.flags[translation.lang] }}"></span>
+                </a>
+              </li>
             {% endif %}
           {% endfor %}
         </ul>

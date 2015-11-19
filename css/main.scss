@@ -3,7 +3,10 @@
 ---
 @charset "utf-8";
 
-@import "materialize";
+@import "materialize/materialize";
+@import "flag-icon-css/flag-icon";
+
+@import "syntax-highlighting";
 
 /**
  * Icons
