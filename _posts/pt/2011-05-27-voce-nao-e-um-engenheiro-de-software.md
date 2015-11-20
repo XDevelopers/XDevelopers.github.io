@@ -6,6 +6,7 @@ author: Sergio Garcia
 comments: true
 categories: [engenheiro de software, jardineiro, metáfora, Textos]
 ---
+
 Você não é um engenheiro de software. Você não construir arranha-céus. Você
 não constrói pontes.
 

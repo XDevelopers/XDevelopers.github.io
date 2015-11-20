@@ -6,6 +6,7 @@ author: Sergio Garcia
 comments: true
 categories: [C#, C#, convert, culture, Desenvolvimento, format]
 ---
+
 Muitas vezes quando estamos desenvolvendo uma aplicação, precisamos que apenas
 um pequeno ponto da aplicação trabalhe em um idioma especifico, que muitas
 vezes pode ser diferente do idioma atual do sistema. Um exemplo disso, é

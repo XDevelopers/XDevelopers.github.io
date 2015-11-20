@@ -6,6 +6,7 @@ author: Sergio Garcia
 comments: true
 categories: [abas, Desenvolvimento, Javascript, javascript, jquery]
 ---
+
 As vezes precisamos efetuar notificações ou exibir propagandas para o usuário,
 criando um efeito visual para o usuário. Caso o usuário não esteja
 visualizando a página no momento, este efeito pode ser perdido. Ou então, você

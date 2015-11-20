@@ -6,6 +6,7 @@ author: Sergio Garcia
 comments: true
 categories: [datetime, Desenvolvimento, performance, SQL, sql, sqlserver]
 ---
+
 Existem diversas formas de armazenar datas, em diversos sistemas diferentes.
 Se nós conhecermos a forma como estes dados são armazenados, podemos utilizar
 formas mais eficientes de fazer as coisas.

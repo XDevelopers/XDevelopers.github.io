@@ -6,6 +6,7 @@ author: Sergio Garcia
 comments: true
 categories: [analista, gerente, Humor, humor, piada]
 ---
+
 Um homem anda por uma estrada próxima a uma cidade, quando percebe, a pouca
 distância, um balão voando baixo. O balonista lhe acena desesperadamente,
 consegue fazer o balão baixar o máximo possível elhe grita:

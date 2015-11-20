@@ -6,6 +6,7 @@ author: Sergio Garcia
 comments: true
 categories: [C#, C#, Desenvolvimento, network, performance, socket, TcpClient]
 ---
+
 Algum tempo atrás, fiz uma aplicação cliente servidor que quando não
 encontrava o cliente no IP previamente configurado, ela efetuava uma busca
 pela rede para encontrar o servidor.
