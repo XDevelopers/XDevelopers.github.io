@@ -1,18 +1,18 @@
 # Site settings
-title: Sergio Garcia
-email: contato@sergio.eti.br
+title: Marcio Lourenço
+email: marcio.xdev@gmail.com
 description:
   en: 'My personal blog, with opinions and comments on technology, development, culture and everything else.'
   pt: 'Meu blog pessoal com opiniões e comentários em tecnologia, desenvolvimento, cultura e tudo mais.'
 baseurl: ""
-url: "https://www.sergio.eti.br"
+url: "https://xdevelopers.github.io"
 flags:
   en: us
   pt: br
 
-author: Sergio Garcia
-twitter_username: sergio_ykz
-github_username:  sergio-garcia
+author: Marcio Lourenço
+twitter_username: marciolou
+github_username:XDevelopers
 
 # GitHub override this
 safe: true
